@@ -1,5 +1,5 @@
 ghcr.io/open-webui/pipelines:main
-open-webui/open-webui:latest
+ghcr.io/open-webui/open-webui:latest
 ollama/ollama:0.2.3
 nginx
 #支持私库
